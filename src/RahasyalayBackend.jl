@@ -1,4 +1,4 @@
-module RahasyalayaBackend
+module RahasyalayBackend
 
 using Genie, Logging, LoggingExtras
 
